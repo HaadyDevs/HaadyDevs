@@ -19,4 +19,6 @@ const haady = {
         databases: ["MySQL", "MsSQL", "MongoDb", "Firestore"]
     }
 };
+
+console.log(repos_list);
 ```
