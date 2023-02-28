@@ -16,7 +16,7 @@ const haady = {
         backEnd: {
             js: ["firebase", "node"]
         },  
-        databases: ["MySQL", "MsSQL", "MongoDb", "Firestore"]
+        databases: ["MySQL", "MSSQL", "MongoDb", "Firestore"]
     }
 };
 
