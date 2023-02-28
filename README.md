@@ -11,7 +11,7 @@ const haady = {
     technologies: {
         frontEnd: {
             frameworks: ["Flutter", "React Native", "React"]
-            designSystems: ["bootstrap", "materialize"]
+            designSystems: ["bootstrap", "materialize", "Bulma"]
         },
         backEnd: {
             js: ["firebase", "node"]
