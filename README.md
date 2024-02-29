@@ -1,20 +1,22 @@
 # So, you found me! #
 
-Welcome to my batcave of variables and functions. 👨‍💻
+Welcome to my CodeCave. 👨‍💻
 
 ## myself.js ##
 
 ```
 const haady = {
-    understands : [Dart, Javascript, Java, python],
+    understands : [Javascript, Typescript, Java, python, Dart],
     creates: ["Mobile Apps", "Websites", "APIs", "Music", "Coffee"],
     technologies: {
         frontEnd: {
-            frameworks: ["Flutter", "React Native", "React"]
-            designSystems: ["bootstrap", "materialize", "Bulma"]
+            frameworks: ["React Native", "React", "Flutter"]
+            designSystems: [MaterialUI, Bootstrap]
         },
         backEnd: {
-            js: ["firebase", "node"]
+            js: ["NodeJS", "ExpressJS"],
+            java: ["Spring Boot"]
+            platforms: ["Firebase", "AWS"]
         },  
         databases: ["MySQL", "MSSQL", "MongoDb", "Firestore"]
     }
